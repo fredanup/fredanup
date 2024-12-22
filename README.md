@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- Encabezado / Banner Minimalista -->
-<p align="center">
-  <!-- Puedes usar un GIF o imagen sutil, en tono pastel o estilo line-art -->
-  
-  <iframe src="https://giphy.com/embed/l6X6FraSQV0ur75CIo" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ezitsg-phone-phones-mobilephones-l6X6FraSQV0ur75CIo">via GIPHY</a></p>
-</p>
 
 # ¡Hola, soy Ángel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 
@@ -33,10 +27,10 @@ Soy **Ingeniero de Sistemas** con pasión por la **arquitectura de software**, l
 ---
 
 ## Sobre mí
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-plain.svg" width="20"/> **Curioso y Autoaprendiz**: Investigo y experimento constantemente para seguir creciendo.  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/> **Amante del Diseño**: Disfruto plasmar la estética minimalista en interfaces limpias y frescas.  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> **Colaboración**: Trabajar en equipo y compartir conocimiento es fundamental para proyectos exitosos.  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/> **Visión de Arquitecto**: Me atrae la escalabilidad, el orden y la solidez en cada solución de software.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-plain.svg" width="20"/> **Curioso y Autoaprendiz**: Investigo y experimento constantemente para seguir creciendo.  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/> **Amante del Diseño**: Disfruto plasmar la estética minimalista en interfaces limpias y frescas.  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> **Colaboración**: Trabajar en equipo y compartir conocimiento es fundamental para proyectos exitosos.  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/> **Visión de Arquitecto**: Me atrae la escalabilidad, el orden y la solidez en cada solución de software.
 
 ---
 
