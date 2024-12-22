@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](TU_TWITTER_URL)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](TU_PORTFOLIO_URL)-->
 
-Soy Ingeniero de sistemas con experiencia en desarrollo de aplicativos web, móviles y de escritorio. Actualmente, busco mejorar como arquitecto de software. Domino las siguientes tecnologías: **React.js, Next.js, Node.js, Rest API, tRPC, PostgreSQL, MySQL, MS SQL, C#, Java, Typescript, Kotlin, Springboot y .NET**. En lo personal busco combinar la tecnología con el diseño para crear soluciones innovadoras y estéticamente atractivas. Me gusta compartir conocimiento, resolver problemas y aprender continuamente a través de la curiosidad y el autoaprendizaje.
+Soy Ingeniero de sistemas con experiencia en desarrollo de aplicativos web, móviles y de escritorio. Actualmente, busco mejorar como arquitecto de software. Domino las siguientes tecnologías: **React.js, Next.js, Node.js, Rest API, tRPC, PostgreSQL, MySQL, MS SQL, C#, Java, Typescript, Kotlin, Springboot y .NET**. En lo personal busco combinar la tecnología con el diseño para crear soluciones innovadoras estéticamente atractivas. Me gusta compartir conocimiento, resolver problemas y aprender continuamente a través de la curiosidad y el autoaprendizaje.
 
 ---
 
@@ -48,13 +48,13 @@ Soy Ingeniero de sistemas con experiencia en desarrollo de aplicativos web, móv
    Desarrollé una aplicación web para mejorar el proceso de contratación de personal de seguridad de la empresa Pacific Security. El stack de desarrollo utilizado fue: AWS3, HTML 5, Tailwind CSS, TypeScript, PostgreSQL,
    tRPC, Node.js, Prisma ORM, Next.js(React.js), Git y GitHub. La aplicación permitió crear convocatorias de empleo, definir los requisitos de cada vacante, recibir postulaciones en línea, presentar sus solicitudes y
    cargar sus currículums y programar entrevistas.
-3. **[SislabApp](#)**  
+3. **[SislabApp](https://github.com/fredanup/sislab.git)**  
    Desarrollé una aplicación web para el control e inventario de productos para la farmacia SibelLab. El stack de desarrollo utilizado fue: HTML 5, Tailwind CSS, TypeScript, PostgreSQL, tRPC, Node.js, Prisma ORM,
    Next.js(React.js), Git y GitHub. La aplicación optimizó la gestión de inventarios y redujo los errores de stock.
-5. **[SomosLeandro](#)**  
+5. **[SomosLeandro](https://github.com/fredanup/somosleandro.git)**  
    Implementé una aplicación para la inserción laboral de egresados del Instituto Público Superior de Música Leandro Alviña Miranda del Cusco que incluyó módulos de pagos en línea y chat en tiempo real, utilizando
    Auth.js, AWS S3, mercadopago, Tailwind CSS, TypeScript, PostgreSQL, tRPC, Node.js, Prisma ORM, Next.js (React.js).
-7. **[MovisdoApp](#)**
+7. **[MovisdoApp](https://github.com/fredanup/MovisdoApp.git)**
    Desarrollé una aplicación web y móvil para monitorear el consumo de hierro en mujeres embarazadas y recién nacidos en áreas rurales. Utilicé MySQL, Apache Web Server, PHP, Android SDK, CodeIgniter, Java Android,
    HTML/CSS, y Bootstrap.
 ---
