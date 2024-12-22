@@ -80,14 +80,9 @@ Soy ingeniero de sistemas con experiencia en desarrollo de software. En lo perso
 <div style="display: flex; align-items: center;">  
   <p>
     Me fascinan los proyectos donde la funcionalidad, diseño y creatividad convergen.  
-    ¡No dudes en contactarme si quieres construir algo genial juntos!
+    No dudes en contactarme si quieres construir algo genial juntos
   </p>
 </div>
-
----
-
-**¡Gracias por visitar mi perfil!**  
-¡Te invito a explorar mis repositorios y dejar tus comentarios o sugerencias!
 
 
 
