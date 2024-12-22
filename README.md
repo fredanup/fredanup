@@ -24,16 +24,15 @@ Here are some ideas to get you started:
 [![GitHub Followers](https://img.shields.io/github/followers/fredanup?label=Follow&style=social)](https://github.com/fredanup)
 
 ---
-
-Soy **Ingeniero de Sistemas** con pasión por la **arquitectura de software**, la **estética minimalista** y un enfoque **alegre**. Me encanta fusionar la tecnología y el diseño para crear soluciones **modernas**, **funcionales** y **visualmente atractivas**. Siempre **aprendiendo** y **explorando** nuevas formas de resolver problemas.
+Soy ingeniero de sistemas con experiencia en desarrollo de software. En lo personal busco combinar una buena arquitectura con un buen diseño para desarrollar soluciones que sean estéticamente atractivas. Me gusta compartir conocimiento, resolver problemas y aprender continuamente.
 
 ---
 
 ## Sobre mí
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="20" alt="Markdown icon"/> **Curioso y Autoaprendiz**: Investigo y experimento constantemente para seguir creciendo.  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" alt="Figma icon"/> **Amante del Diseño**: Disfruto plasmar la estética minimalista en interfaces limpias y frescas.  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" alt="Git icon"/> **Colaboración**: Trabajar en equipo y compartir conocimiento es fundamental para proyectos exitosos.  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" alt="Docker icon"/> **Visión de Arquitecto**: Me atrae la escalabilidad, el orden y la solidez en cada solución de software.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="20" alt="Markdown icon"/> **Curioso**: Investigo y experimento constantemente para seguir creciendo.  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" alt="Figma icon"/> **Amante del diseño**: Disfruto diseñar interfaces de usuario que se ajusten al propósito de cada solución.  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" alt="Git icon"/> **Colaboración**: Me gusta trabajar en equipo y compartir conocimiento.  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" alt="Docker icon"/> **Visión de arquitectura**: Me atrae la escalabilidad, el orden y la solidez en cada solución de software.
 
 ---
 
@@ -60,7 +59,7 @@ Soy **Ingeniero de Sistemas** con pasión por la **arquitectura de software**, l
 ## Proyectos Destacados
 
 1. **[Pacific Security](https://github.com/fredanup/pacific-security.git)**  
-   <sub>Aplicación web para contratación de personal de seguridad.</sub>  
+   <sub>Aplicación web para la contratación de personal de seguridad.</sub>  
    <sub>**Stack**: Next.js, Node.js, PostgreSQL, Prisma, AWS3</sub>
 
 2. **[SislabApp](https://github.com/fredanup/sislab.git)**  
@@ -68,11 +67,11 @@ Soy **Ingeniero de Sistemas** con pasión por la **arquitectura de software**, l
    <sub>**Stack**: Next.js, Node.js, PostgreSQL, Prisma, TailwindCSS</sub>
 
 3. **[SomosLeandro](https://github.com/fredanup/somosleandro.git)**  
-   <sub>Plataforma de inserción laboral para egresados en Cusco.</sub>  
+   <sub>Plataforma de inserción laboral para egresados de la Escuela de Música Leandro Alviña del Cusco.</sub>  
    <sub>**Stack**: Next.js, Node.js, Auth.js, AWS S3, MercadoPago</sub>
 
 4. **[MovisdoApp](https://github.com/fredanup/MovisdoApp.git)**  
-   <sub>App para monitoreo nutricional en áreas rurales.</sub>  
+   <sub>App para el monitoreo de consumo de hierro en zonas rurales.</sub>  
    <sub>**Stack**: PHP, MySQL, Android SDK, CodeIgniter</sub>
 
 ---
@@ -80,19 +79,15 @@ Soy **Ingeniero de Sistemas** con pasión por la **arquitectura de software**, l
 ## ¿Te interesa colaborar?
 <div style="display: flex; align-items: center;">  
   <p>
-    Me fascinan los proyectos donde <strong>funcionalidad</strong>, <strong>diseño</strong> 
-    y <strong>creatividad</strong> convergen.  
-    Si estás buscando a alguien con enfoque <strong>minimalista</strong> y un 
-    <strong>toque alegre</strong>, ¡no dudes en contactarme!
+    Me fascinan los proyectos donde la funcionalidad, diseño y creatividad convergen.  
+    ¡No dudes en contactarme si quieres construir algo genial juntos!
   </p>
 </div>
 
 ---
 
-<p align="center">
-  <strong>"La belleza de una solución está en su sencillez,<br/>
-  y su encanto radica en la pasión que hay detrás."</strong>
-</p>
+**¡Gracias por visitar mi perfil!**  
+¡Te invito a explorar mis repositorios y dejar tus comentarios o sugerencias!
 
 
 
