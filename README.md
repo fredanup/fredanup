@@ -14,61 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ¡Hola, soy Ángel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<!-- Encabezado / Banner Minimalista -->
+<p align="center">
+  <!-- Puedes usar un GIF o imagen sutil, en tono pastel o estilo line-art -->
+  <img src="https://media.giphy.com/media/pyFcg0Eej8h6PquC0q/giphy.gif" width="280" alt="banner minimalista" />
+</p>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/upfa/)
-<!--
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](TU_TWITTER_URL)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](TU_PORTFOLIO_URL)-->
+# ¡Hola, soy Ángel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 
-Soy Ingeniero de sistemas con experiencia en desarrollo de aplicativos web, móviles y de escritorio. Actualmente, busco mejorar como arquitecto de software. Domino las siguientes tecnologías: **React.js, Next.js, Node.js, Rest API, tRPC, PostgreSQL, MySQL, MS SQL, C#, Java, Typescript, Kotlin, Springboot y .NET**. En lo personal busco combinar la tecnología con el diseño para crear soluciones innovadoras estéticamente atractivas. Me gusta compartir conocimiento, resolver problemas y aprender continuamente a través de la curiosidad y el autoaprendizaje.
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/upfa/)
+[![GitHub Followers](https://img.shields.io/github/followers/fredanup?label=Follow&style=social)](https://github.com/fredanup)
+
+Soy **Ingeniero de Sistemas** con pasión por el **diseño minimalista** y la **arquitectura de software**. Me gusta fusionar la tecnología y la estética para crear soluciones **modernas**, **elegantes** y con un **toque alegre**.  
+Siempre **aprendiendo**, **enseñando** y **explorando** nuevas formas de resolver problemas.
 
 ---
 
 ## Sobre mí
-- **Curioso y creativo**: Siempre busco perspectivas nuevas para resolver problemas y mejorar la experiencia del usuario.  
-- **Entusiasta de la estética**: Tengo un buen ojo para el diseño y la estética, ya sea en apps, interfaces o cualquier proyecto creativo.  
-- **Apasionado por enseñar**: Disfruto compartir lo que sé y aprender de los demás; la colaboración y el intercambio de ideas son clave para un gran producto.  
-- **Autoaprendiz**: Prefiero aprender leyendo, explorando y experimentando, lo que me ha permitido profundizar en varias áreas de software.
+- **Curiosidad y autoaprendizaje**: Investigo, leo y experimento constantemente.  
+- **Enfoque estético**: Me encanta que el software no solo funcione bien, sino que luzca limpio y armonioso.  
+- **Colaboración**: Disfruto trabajar en equipo, compartir conocimientos y aprender de los demás.  
+- **Visión de Arquitecto**: Me atrae el orden, la estructura y la escalabilidad en el desarrollo de software.
 
 ---
 
 ## Tecnologías y Herramientas
-- **Lenguajes**: Java, JavaScript, TypeScript y Kotlin  
-- **Frameworks**: Spring Boot, Node.js y React  
-- **Herramientas de Diseño**: Figma, Adobe XD  
-- **Bases de Datos**: MySQL, PostgreSQL, MongoDB  
-- **DevOps**: Docker, Kubernetes, GitHub Actions  
-- **Otros Intereses**: Arquitectura de software, UX/UI
+```yaml
+- Lenguajes:   Java, JS/TS, Kotlin, C#
+- Frameworks:  Spring Boot, Node.js, React, Next.js, .NET
+- Bases de Datos: MySQL, PostgreSQL, MS SQL
+- Diseño:      Figma, Adobe XD, Tailwind CSS
+- Extras:      Docker, tRPC, Prisma, GitHub Actions
 
----
-
-## Proyectos Destacados
-1. **[Pacific Security](https://github.com/fredanup/pacific-security.git)**  
-   Desarrollé una aplicación web para mejorar el proceso de contratación de personal de seguridad de la empresa Pacific Security. El stack de desarrollo utilizado fue: AWS3, HTML 5, Tailwind CSS, TypeScript, PostgreSQL,
-   tRPC, Node.js, Prisma ORM, Next.js(React.js), Git y GitHub. La aplicación permitió crear convocatorias de empleo, definir los requisitos de cada vacante, recibir postulaciones en línea, presentar sus solicitudes y
-   cargar sus currículums y programar entrevistas.
-3. **[SislabApp](https://github.com/fredanup/sislab.git)**  
-   Desarrollé una aplicación web para el control e inventario de productos para la farmacia SibelLab. El stack de desarrollo utilizado fue: HTML 5, Tailwind CSS, TypeScript, PostgreSQL, tRPC, Node.js, Prisma ORM,
-   Next.js(React.js), Git y GitHub. La aplicación optimizó la gestión de inventarios y redujo los errores de stock.
-5. **[SomosLeandro](https://github.com/fredanup/somosleandro.git)**  
-   Implementé una aplicación para la inserción laboral de egresados del Instituto Público Superior de Música Leandro Alviña Miranda del Cusco que incluyó módulos de pagos en línea y chat en tiempo real, utilizando
-   Auth.js, AWS S3, mercadopago, Tailwind CSS, TypeScript, PostgreSQL, tRPC, Node.js, Prisma ORM, Next.js (React.js).
-7. **[MovisdoApp](https://github.com/fredanup/MovisdoApp.git)**
-   Desarrollé una aplicación web y móvil para monitorear el consumo de hierro en mujeres embarazadas y recién nacidos en áreas rurales. Utilicé MySQL, Apache Web Server, PHP, Android SDK, CodeIgniter, Java Android,
-   HTML/CSS, y Bootstrap.
----
-
-## ¿Qué me motiva?
-- **Crear experiencias** que sean útiles y atractivas para el usuario.  
-- **Combinar** la **ingeniería de sistemas** con la **visión de arquitecto** para diseñar soluciones robustas, organizadas y elegantes.  
-- **Aprender y enseñar**: me encanta explorar nuevas tecnologías y compartir ese conocimiento a través de talleres, charlas o contenido en redes sociales.
-
----
-
-## ¿Te interesa colaborar?
-Me entusiasma trabajar en proyectos con un **alto componente creativo** y **retos técnicos**.  
-¡No dudes en contactarme si quieres construir algo genial juntos!
-
-**¡Gracias por visitar mi perfil!**  
-¡Te invito a explorar mis repositorios y dejar tus comentarios o sugerencias!
