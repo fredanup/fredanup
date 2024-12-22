@@ -17,12 +17,8 @@ Here are some ideas to get you started:
 <!-- Encabezado / Banner Minimalista -->
 <p align="center">
   <!-- Puedes usar un GIF o imagen sutil, en tono pastel o estilo line-art -->
-  <img src="https://media.giphy.com/media/pyFcg0Eej8h6PquC0q/giphy.gif" width="280" alt="banner minimalista" />
-</p>
-
-<!-- Banner colorido o GIF minimalista con acento de color -->
-<p align="center">
-  <img src="https://media.giphy.com/media/pyFcg0Eej8h6PquC0q/giphy.gif" width="280" alt="banner minimalista y colorido" />
+  
+  <iframe src="https://giphy.com/embed/l6X6FraSQV0ur75CIo" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ezitsg-phone-phones-mobilephones-l6X6FraSQV0ur75CIo">via GIPHY</a></p>
 </p>
 
 # ¡Hola, soy Ángel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
