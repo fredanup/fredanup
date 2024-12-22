@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- Banner o GIF principal -->
-<p align="center">
-  <!-- Reemplazamos con un enlace directo a i.giphy.com -->
-  <img src="https://i.giphy.com/media/pyFcg0Eej8h6PquC0q/giphy.gif" width="280" alt="banner colorido y minimalista" />
-</p>
 
 # ¡Hola, soy Ángel! 
 <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Mano saludando" />
@@ -34,10 +30,10 @@ Soy **Ingeniero de Sistemas** con pasión por la **arquitectura de software**, l
 ---
 
 ## Sobre mí
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="20" alt="Markdown icon"/> **Curioso y Autoaprendiz**: Investigo y experimento constantemente para seguir creciendo.  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" alt="Figma icon"/> **Amante del Diseño**: Disfruto plasmar la estética minimalista en interfaces limpias y frescas.  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" alt="Git icon"/> **Colaboración**: Trabajar en equipo y compartir conocimiento es fundamental para proyectos exitosos.  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" alt="Docker icon"/> **Visión de Arquitecto**: Me atrae la escalabilidad, el orden y la solidez en cada solución de software.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="20" alt="Markdown icon"/> **Curioso y Autoaprendiz**: Investigo y experimento constantemente para seguir creciendo.  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" alt="Figma icon"/> **Amante del Diseño**: Disfruto plasmar la estética minimalista en interfaces limpias y frescas.  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" alt="Git icon"/> **Colaboración**: Trabajar en equipo y compartir conocimiento es fundamental para proyectos exitosos.  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" alt="Docker icon"/> **Visión de Arquitecto**: Me atrae la escalabilidad, el orden y la solidez en cada solución de software.
 
 ---
 
@@ -82,8 +78,7 @@ Soy **Ingeniero de Sistemas** con pasión por la **arquitectura de software**, l
 ---
 
 ## ¿Te interesa colaborar?
-<div style="display: flex; align-items: center;">
-  <img src="https://i.giphy.com/media/xThtamF5ZJN9qVBSVW/giphy.gif" width="80" alt="arrow-right" />
+<div style="display: flex; align-items: center;">  
   <p>
     Me fascinan los proyectos donde <strong>funcionalidad</strong>, <strong>diseño</strong> 
     y <strong>creatividad</strong> convergen.  
@@ -95,22 +90,9 @@ Soy **Ingeniero de Sistemas** con pasión por la **arquitectura de software**, l
 ---
 
 <p align="center">
-  <!-- Enlace directo a i.giphy.com -->
-  <img src="https://i.giphy.com/media/l4FGr3nzK1O1I2FMc/giphy.gif" width="100" alt="coffee"/>
-</p>
-
-<p align="center">
   <strong>"La belleza de una solución está en su sencillez,<br/>
   y su encanto radica en la pasión que hay detrás."</strong>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l4FGr3nzK1O1I2FMc/giphy.gif" width="100" alt="coffee"/>
-</p>
-
-<p align="center">
-  <b>"La belleza de una solución está en su sencillez, 
-  <br/>pero su encanto radica en la pasión que hay detrás."</b>
-</p>
 
 
